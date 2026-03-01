@@ -2,14 +2,22 @@
 This repository serves as my technical journal and portfolio for Web Application Security and Ethical Hacking. 
 
 ## Current Objectives:
-* [ ] Mastering Blind SQL Injection via PortSwigger Academy.
+* [ ] Mastering SQL Injection via PortSwigger Academy.
 * [ ] Burp Suite Professional automation & advanced workflows.
 * [ ] Python for Pentesters: Developing custom exploitation scripts.
 
 ## Lab Specifications:
 * OS: Kali Linux (Dedicated Environment)
-* Hardware: 32GB RAM / High-Performance MSI Lab Station
+* Hardware: 32GB RAM / High-Performance Lab Station
 * Primary Tools: Burp Suite Pro, SQLmap, Nmap, Python 3.x
 
 ## Daily Logs & Writeups:
 *Logs will be updated after each successful lab exploitation.*
+
+### 28/02/2026 - PortSwigger Academy Progress
+[x] SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+[x] SQL injection vulnerability allowing database login bypass
+[x] SQL injection UNION attack, determining the number of columns returned by the query
+[x] SQL injection UNION attack, finding a column containing text
+[x] SQL injection UNION attack, retrieving data from other tables
+[x] SQL injection UNION attack, retrieving multiple values in a single column
