@@ -15,9 +15,9 @@ This repository serves as my technical journal and portfolio for Web Application
 *Logs will be updated after each successful lab exploitation.*
 
 ### 28/02/2026 - PortSwigger Academy Progress
-[x] SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
-[x] SQL injection vulnerability allowing database login bypass
-[x] SQL injection UNION attack, determining the number of columns returned by the query
-[x] SQL injection UNION attack, finding a column containing text
-[x] SQL injection UNION attack, retrieving data from other tables
-[x] SQL injection UNION attack, retrieving multiple values in a single column
+* [x] SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+* [x] SQL injection vulnerability allowing database login bypass
+* [x] SQL injection UNION attack, determining the number of columns returned by the query
+* [x] SQL injection UNION attack, finding a column containing text
+* [x] SQL injection UNION attack, retrieving data from other tables
+* [x] SQL injection UNION attack, retrieving multiple values in a single column
