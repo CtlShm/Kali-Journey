@@ -21,3 +21,6 @@ This repository serves as my technical journal and portfolio for Web Application
 * [x] SQL injection UNION attack, finding a column containing text
 * [x] SQL injection UNION attack, retrieving data from other tables
 * [x] SQL injection UNION attack, retrieving multiple values in a single column
+
+### 02/03/2026 - PortSwigger Academy Progress
+* [x] Blind SQL injection with conditional responses
