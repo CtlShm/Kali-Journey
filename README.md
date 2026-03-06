@@ -1,4 +1,6 @@
 # London Cyber Lab & Professional Pentesting Journey
+`#BlindSQLi` `#TimeBased` `#ErrorBased` `#DataExfiltration` `#BurpIntruder` `#PortSwigger` `#CyberSecurity` `#EthicalHacking` 
+
 This repository serves as my technical journal and portfolio for Web Application Security and Ethical Hacking. 
 
 ## Current Objectives:
@@ -24,3 +26,8 @@ This repository serves as my technical journal and portfolio for Web Application
 
 ### 02/03/2026 - PortSwigger Academy Progress
 * [x] Blind SQL injection with conditional responses
+
+### 06/03/2026 - PortSwigger Academy Progress
+* [x] Blind SQL injection with conditional errors
+* [x] Blind SQL injection with time delays
+* [x] Blind SQL injection with time delays and information retrieval
